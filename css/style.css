@@ -1,14 +1,32 @@
 
 .navbar {
-    background-color: brown;
+    background-color: #00659B;
 
 }
-
+.home {
+    background-color: #474747;
+}
+.categorias {
+    background-color: #822f92;
+}
 .sobre {
-    background-color: blue;
+    background-color: #3b21af;
 }
+.footer {
+    background-color: #00659B;
+    color: aliceblue;
+}
+
 
 .margin {
     padding-top: 30px;
+    padding-bottom: 50px;
+}
 
+h3 {
+    color: #F79256;
+}
+
+h1 {
+    color: #F79256;
 }
