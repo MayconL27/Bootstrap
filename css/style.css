@@ -1,6 +1,6 @@
 
 .navbar {
-    background-color: #00659B;
+    background-color: #2d5179;
     position: fixed;
     top: 0;
     left: 0;
@@ -9,17 +9,22 @@
 
 }
 .home {
-    background-color: #00659B;
+    background-image: url(../img/backgroundimg.png);
+    width: 100%;
+    height: 590px;
 }
 .categorias {
-    background-color: #822f92;
+    background-color: #4AB177;
+    height: 600px;
 }
 .sobre {
-    background-color: #3b21af;
+    background-color: #4AB177;
+    height: 500px;
 }
 .footer {
-    background-color: #00659B;
+    background-color: #33724C;
     color: aliceblue;
+    height: 100px;
 }
 
 
@@ -29,9 +34,9 @@
 }
 
 h3 {
-    color: #F79256;
+    color: #ffffff;
 }
 
 h1 {
-    color: #F79256;
+    color: #ffffff;
 }
